@@ -2,7 +2,7 @@
 
 <p align="center">
   Computer Science student at Lomonosov MSU.<br>
-  I build engines, protocol-heavy web apps, algorithmic tools, systems that help ideas become playable.
+  I build systems that help ideas become playable.
 </p>
 
 <p align="center">
