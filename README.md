@@ -17,11 +17,4 @@
 
 ## Stats
 
-<p align="center">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=laines-it&show_icons=true&hide_border=true&theme=transparent">
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laines-it&layout=compact&langs_count=8&hide_border=true&theme=transparent">
-</p>
-
-## Connect
-
-The best place to explore my work is through the repositories above. I am especially interested in engines, game infrastructure, algorithms, and compact tools with clear behavior.
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=laines-it&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=laines-it&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark)
