@@ -16,5 +16,6 @@
 </p>
 
 ## Stats
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=laines-it&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=laines-it&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark) <img src="./robot_pictures_to_gif_xy_locked_final.gif" width="20%" alt="Alt Text">
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=laines-it&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=laines-it&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark)
+
